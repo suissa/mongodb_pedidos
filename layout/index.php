@@ -91,7 +91,7 @@
 								  <p class="product-actions">
 										<ul>
 											<li>
-												<button class="product-action-buy">Comprar</button>
+												<button class="btn product-action-buy">Comprar</button>
 											</li>
 										</ul>
 								  </p>
@@ -114,7 +114,7 @@
 								  <p class="product-actions">
 										<ul>
 											<li>
-												<button class="product-action-buy">Comprar</button>
+												<button class="btn product-action-buy">Comprar</button>
 											</li>
 										</ul>
 								  </p>
@@ -137,7 +137,7 @@
 								  <p class="product-actions">
 										<ul>
 											<li>
-												<button class="product-action-buy">Comprar</button>
+												<button class="btn product-action-buy">Comprar</button>
 											</li>
 										</ul>
 								  </p>
@@ -160,7 +160,7 @@
 								  <p class="product-actions">
 										<ul>
 											<li>
-												<button class="product-action-buy">Comprar</button>
+												<button class="btn product-action-buy">Comprar</button>
 											</li>
 										</ul>
 								  </p>
@@ -183,7 +183,7 @@
 								  <p class="product-actions">
 										<ul>
 											<li>
-												<button class="product-action-buy">Comprar</button>
+												<button class="btn product-action-buy">Comprar</button>
 											</li>
 										</ul>
 								  </p>
@@ -206,7 +206,7 @@
 								  <p class="product-actions">
 										<ul>
 											<li>
-												<button class="product-action-buy">Comprar</button>
+												<button class="btn product-action-buy">Comprar</button>
 											</li>
 										</ul>
 								  </p>
@@ -229,7 +229,7 @@
 								  <p class="product-actions">
 										<ul>
 											<li>
-												<button class="product-action-buy">Comprar</button>
+												<button class="btn product-action-buy">Comprar</button>
 											</li>
 										</ul>
 								  </p>
@@ -252,7 +252,7 @@
 								  <p class="product-actions">
 										<ul>
 											<li>
-												<button class="product-action-buy">Comprar</button>
+												<button class="btn product-action-buy">Comprar</button>
 											</li>
 										</ul>
 								  </p>

@@ -21,7 +21,9 @@ require './Slim/Slim.php';
  * of setting names and values into the application constructor.
  */
 $app = new \Slim\Slim();
-
+$app->config(array(
+   'templates.path' => './layout'
+));
 /**
  * Step 3: Define the Slim application routes
  *
@@ -30,6 +32,10 @@ $app = new \Slim\Slim();
  * argument for `Slim::get`, `Slim::post`, `Slim::put`, and `Slim::delete`
  * is an anonymous function.
  */
+
+$app->get('/', function () use ($app) {
+    $app->render('index.php');
+});
 
 $app->get('/hello/:name', function($name){
     echo 'Hello '.$name;
